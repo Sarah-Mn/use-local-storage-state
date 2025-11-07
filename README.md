@@ -2,7 +2,7 @@
 
 > 🧠 A lightweight React hook for managing persistent state using `localStorage` or `sessionStorage`.
 
-## [![npm version](https://img.shields.io/npm/v/use-local-storage.svg?style=flat-square)](https://www.npmjs.com/package/@sarah_mn/use-local-storage-state) [![npm downloads](https://img.shields.io/npm/dm/use-local-storage.svg?style=flat-square)](https://www.npmjs.com/package/@sarah_mn/use-local-storage-state) [![license](https://img.shields.io/npm/l/use-local-storage.svg?style=flat-square)](LICENSE)
+## [![npm version](https://img.shields.io/npm/v/@sarah_mn/use-local-storage-state.svg?style=flat-square)](https://www.npmjs.com/package/@sarah_mn/use-local-storage-state) [![npm downloads](https://img.shields.io/npm/dm/@sarah_mn/use-local-storage-state.svg?style=flat-square)](https://www.npmjs.com/package/@sarah_mn/use-local-storage-state) [![license](https://img.shields.io/npm/l/@sarah_mn/use-local-storage-state.svg?style=flat-square)](LICENSE)
 
 ## Installation
 
